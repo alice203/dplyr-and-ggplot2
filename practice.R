@@ -1,9 +1,6 @@
-#Olympics dataset to practice the dpylr and ggplot2 package
+#Practice dpylr and ggplot2 package with olmypics dataset
 
 #dataset from: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
-
-setwd("/Volumes/TREKSTOR/Alicia/Dokumente/Studium/Master/Block2/Intro R/Assgnm 1/input")
-getwd()
 
 #Load packages
 library(dplyr)
